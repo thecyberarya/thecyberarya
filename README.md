@@ -1,4 +1,4 @@
-
+<img src="https://github.com/itsdhirajarya/itsdhirajarya/blob/main/ethical-hacking-2.jpg" alt="Ethical Hacker" align="center" width="auto">
 
 <h1 align="center">Hi 👋, I'm Dhiraj Arya</h1>
 <h3 align="center">A Web Pentester And Ethical Hacker from India</h3>
