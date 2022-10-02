@@ -1,6 +1,9 @@
 <img src="https://github.com/itsdhirajarya/itsdhirajarya/blob/main/ethical-hacking-2.jpg" alt="Ethical Hacker" align="center" width="auto">
 
-<h1 align="center">Hi 👋, I'm Dhiraj Arya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="35"
+         width="35" /> I'm Dhiraj Arya</h1>
 <h3 align="center">A Web Pentester And Ethical Hacker from India</h3>
 
 
