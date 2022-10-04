@@ -6,6 +6,8 @@
          width="35" /> I'm Dhiraj Arya</h1>
 <h3 align="center">A Web Pentester And Ethical Hacker from India</h3>
 
+<h2 align="left">Achievements</h2>
+<p align="left"><img alt="Introduction to Cybersecurity" src="https://github.com/itsdhirajarya/itsdhirajarya/blob/main/introduction_to_cybersecurity_16.png" width="150px" height="auto" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdhirajarya&label=Profile%20views&color=0e75b6&style=flat" alt="itsdhirajarya" /> </p>
 
@@ -29,6 +31,10 @@
 - 📫 How to reach me **thecyberarya@gmail.com / dhirajarya.ptn@gmail.com**
 
 - ⚡ Fun fact **I'm 16 Year old.**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
