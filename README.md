@@ -1,4 +1,4 @@
-<img src="https://github.com/thecyberarya/thecyberarya/blob/main/ethical-hacking-2.jpg" alt="Ethical Hacker" align="center" width="auto">
+<img src="https://github.com/thecyberarya/thecyberarya/blob/main/banner.png" alt="Ethical Hacker" align="center" width="auto">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
