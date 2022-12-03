@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
-         width="35" /> I'm Dhiraj Arya</h1>
+                           width="35" /> I'm <a href="https://thecyberarya.github.io/Portfolio/">Dhiraj Arya</a></h1>
 <h3 align="center">A Web Pentester And Ethical Hacker from India</h3>
 
 <h2 align="left">Achievements</h2>
